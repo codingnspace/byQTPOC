@@ -1,24 +1,78 @@
-.App {
-  text-align: center;
+.SearchWidget {
+  margin-bottom: 1em;
+  margin-top: 1em;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
-}
-
-.App-header {
-  background-color: #222;
-  height: 150px;
-  padding: 20px;
+.SearchWidget button {
+  background-color: #4286f4;
+  border: none;
   color: white;
+  cursor: pointer;
+  padding: 1em;
+  // Vertialcally offset buttons to align with input border bottom
+  position: relative;
+  top: 1px;
 }
 
-.App-intro {
-  font-size: large;
+.SearchWidget button:hover {
+  background-color: #2f6fd6;
+}
+
+.SearchWidget .AdvancedBtn {
+  background-color: #bc56bb;
+}
+
+.SearchWidget .AdvancedBtn:hover {
+  background-color: #aa2ca9;
+}
+
+.SearchWidget input {
+  border: none;
+  border-bottom: 1px solid #4286f4;
+  padding: 1em;
+  width: 75vw;
+}
+
+.TagBox {
+  border-radius: 4px;
+  color: white;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: bold;
+  margin: 1em;
+  padding: 1.5em;
+  width: 25%;
+}
+
+.TagBox:nth-child(even) {
+  background-color: #4286f4;
+}
+
+.TagBox:nth-child(even):hover {
+  background-color: #2f6fd6;
+}
+
+.TagBox:nth-child(odd) {
+  background-color: #bc56bb;
+}
+
+.TagBox:nth-child(odd):hover {
+  background-color: #aa2ca9;
 }
 
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
+}
+
+@media (max-width: 320px) {
+  .TagBox {
+    font-size: 3vw;
+  }
+}
+
+@media (max-width: 500px) {
+  .TagBox {
+    width: 50%;
+  }
 }
