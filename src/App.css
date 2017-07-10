@@ -1,7 +1,9 @@
 
 .CreatorCard {
   border: 1px solid black;
-  width: 25%;
+  display: inline-block;
+  margin: 1em;
+  width: 30%;
 }
 
 .CreatorCard .AuthorPhoto {
@@ -112,6 +114,10 @@
   background-color: #aa2ca9;
 }
 
+.TagGrid {
+  text-align: center;
+}
+
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
@@ -124,7 +130,11 @@
 }
 
 @media (max-width: 500px) {
+  .CreatorCard {
+    width: 90%;
+  }
+
   .TagBox {
-    width: 50%;
+    width: 80%;
   }
 }
