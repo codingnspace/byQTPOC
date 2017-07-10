@@ -50,6 +50,14 @@ class App extends Component {
           'non-fiction', 'civil rights movement']}
         socialLinks = {{
           wiki: 'https://en.wikipedia.org/wiki/James_Baldwin',
+          facebook: 'https://en.wikipedia.org/wiki/James_Baldwin',
+          twitter: 'https://en.wikipedia.org/wiki/James_Baldwin',
+          pinterest: 'https://en.wikipedia.org/wiki/James_Baldwin',
+          instagram: 'https://en.wikipedia.org/wiki/James_Baldwin',
+          url: 'https://en.wikipedia.org/wiki/James_Baldwin',
+          linkedin: 'https://en.wikipedia.org/wiki/James_Baldwin',
+          gplus: 'https://en.wikipedia.org/wiki/James_Baldwin',
+          youtube: 'https://en.wikipedia.org/wiki/James_Baldwin',
           fbi: 'https://vault.fbi.gov/james-baldwin'
         }}
         photo = 'https://cdn-images-1.medium.com/max/1600/1*fbPgxiMGfhR3AxkL3LEuIg.jpeg'

@@ -1,3 +1,55 @@
+
+.CreatorCard {
+  border: 1px solid black;
+  width: 25%;
+}
+
+.CreatorCard .AuthorPhoto {
+  width: 100%;
+}
+
+.CreatorCard .CardTag {
+  color: #4286f4;
+  display: inline-block;
+  margin: .2em;
+}
+
+.CreatorCard .Description {
+  padding: .5em;
+}
+
+.CreatorCard .Description a {
+  text-decoration: none;
+}
+
+.CreatorCard .Description span {
+  font-size: 80%;
+  font-style: italic;
+  position: relative;
+  bottom: 10px;
+}
+
+.CreatorCard blockquote {
+  border-left: 5px solid #bc56bb;
+  border-right: 1px solid #bc56bb;
+  margin-left: .3em;
+  margin-right: 0;
+  padding: .3em;
+}
+
+.CreatorCard blockquote p {
+  margin-left: .8em;
+}
+
+.CreatorCard h2 {
+  text-align: center;
+}
+
+.SocialLinks img {
+  margin-left: .5em;
+  width: 3em;
+}
+
 .SearchWidget {
   margin-bottom: 1em;
   margin-top: 1em;

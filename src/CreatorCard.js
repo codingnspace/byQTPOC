@@ -1,5 +1,9 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
+
+import LinkedList from './LinkedList';
+import SocialLinks from './SocialLinks';
+
 import './App.css';
 
 class CreatorCard extends Component {
@@ -13,8 +17,7 @@ class CreatorCard extends Component {
     quote: PropTypes.string,
     obscureWorks: PropTypes.array,
     photo: PropTypes.string,
-    socialLinks: PropTypes.object,
-    photo: PropTypes.object
+    socialLinks: PropTypes.object
   }
 
   render() {
@@ -32,40 +35,38 @@ class CreatorCard extends Component {
       tags
     } = this.props;
 
-    const linkedFamousWorks = famousWorks.map((work) => {
+    const tagList = tags.map((tag) => {
       return (
-        <a href={work.link}>{work.name} </a>
+        <a href="#" className="CardTag">{`#${tag}`}</a>
       );
     });
 
-    const linkedObscureWorks = obscureWorks.map((work) => {
-      return (
-        <a href={work.link}>{work.name} </a>
-      );
-    });
-    const tagList = tags.map((tag) => {
-      return (
-        <a href="#">{`#${tag}`}</a>
-      );
-    });
     return (
       <div className="CreatorCard">
-        <h2>{`${firstName} ${lastName}`}</h2>
-        <img src={photo} />
+        <h2>{`${firstName.toUpperCase()} ${lastName.toUpperCase()}`}</h2>
+        <img className="AuthorPhoto" src={photo} />
         <div className="Description">
-          {`(${born} - ${death || 'Present'}) ${bio}`}
-        </div>
-        <blockquote>
-          {quote}
-        </blockquote>
-        <h4>Famous Works</h4>
-        {linkedFamousWorks}
-        <h4>Obscure Works</h4>
-        {linkedObscureWorks}
-        <div>
+          <span>
+            {`${born} - ${death || 'Present'}`}
+          </span>
+          <blockquote>
+            <p>
+              {quote}
+            </p>
+          </blockquote>
+          <p>
+            {bio}
+          </p>
+          <div>
           {tagList}
+          </div>
+          <h4>Famous Works</h4>
+          <LinkedList links={famousWorks} />
+          <h4>Obscure Works</h4>
+          <LinkedList links={obscureWorks} />
+          <h4>{`More ${lastName}`}</h4>
+          <SocialLinks socialLinks={socialLinks} />
         </div>
-        <h4>{`Links to More ${lastName}`}</h4>
       </div>
     );
   }

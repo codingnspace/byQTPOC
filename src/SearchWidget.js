@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import magnifyGlass from './magnifyGlass.svg';
+
 import './App.css';
 
 class SearchWidget extends Component {
