@@ -11,9 +11,15 @@ class CreatorsList extends Component {
   }
 
   render() {
-    const { creators } = this.props;
+    const { creators, search } = this.props;
 
-    const creatorCardList = creators.map((creator) => {
+    const creatorCardList = creators
+    .filter((creator) => {
+      const creatorSearchableInfo = creator.bio + creator.famousWorks.map(w => w.name).join()
+      + creator.obscureWorks.map(w => w.name).join() + creator.firstName + creator.lastName
+      + creator.tags.join();
+      return creatorSearchableInfo.includes(search);
+    }).map((creator) => {
       return (
         <CreatorCard
             bio={creator.bio}
