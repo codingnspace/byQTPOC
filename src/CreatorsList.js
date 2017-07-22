@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
+import { connect } from 'react-redux';
+import { getFormValues } from 'redux-form';
 
 import CreatorCard from './CreatorCard';
 
@@ -18,7 +20,7 @@ class CreatorsList extends Component {
       const creatorSearchableInfo = creator.bio + creator.famousWorks.map(w => w.name).join()
       + creator.obscureWorks.map(w => w.name).join() + creator.firstName + creator.lastName
       + creator.tags.join();
-      return creatorSearchableInfo.includes(search);
+      return creatorSearchableInfo.toLowerCase().includes(search.toLowerCase());
     }).map((creator) => {
       return (
         <CreatorCard
@@ -45,4 +47,9 @@ class CreatorsList extends Component {
   }
 }
 
-export default CreatorsList;
+function mapStateToProps(state) {
+  return {
+    search: state.search.search || ''
+  }
+}
+export default connect(mapStateToProps)(CreatorsList)
