@@ -1,11 +1,12 @@
-import React, { Component } from 'react';
-import PropTypes from 'prop-types';
-import { connect } from 'react-redux';
-import { getFormValues } from 'redux-form';
+import React, { Component } from 'react'
+import PropTypes from 'prop-types'
+import { connect } from 'react-redux'
+import { getFormValues } from 'redux-form'
+import Creators from './Creators.json'
 
-import CreatorCard from './CreatorCard';
+import CreatorCard from './CreatorCard'
 
-import './App.css';
+import './App.css'
 
 class CreatorsList extends Component {
   static propTypes = {
@@ -13,14 +14,15 @@ class CreatorsList extends Component {
   }
 
   render() {
-    const { creators, search } = this.props;
+    const { creators, match, search } = this.props;
 
-    const creatorCardList = creators
+    const creatorCardList = Creators.creators
     .filter((creator) => {
-      const creatorSearchableInfo = creator.bio + creator.famousWorks.map(w => w.name).join()
-      + creator.obscureWorks.map(w => w.name).join() + creator.firstName + creator.lastName
-      + creator.tags.join();
-      return creatorSearchableInfo.toLowerCase().includes(search.toLowerCase());
+      // const creatorSearchableInfo = creator.bio + creator.famousWorks.map(w => w.name).join()
+      // + creator.obscureWorks.map(w => w.name).join() + creator.firstName + creator.lastName
+      // + creator.tags.join();
+      // return creatorSearchableInfo.toLowerCase().includes(search.toLowerCase());
+      return creator.craft && creator.craft.includes(match.params.craft)
     }).map((creator) => {
       return (
         <CreatorCard

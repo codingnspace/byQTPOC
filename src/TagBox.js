@@ -1,6 +1,8 @@
-import React, { Component } from 'react';
-import PropTypes from 'prop-types';
-import './App.css';
+import React, { Component } from 'react'
+import PropTypes from 'prop-types'
+import { Link } from 'react-router-dom'
+
+import './App.css'
 
 class TagBox extends Component {
   static propTypes = {
@@ -8,10 +10,11 @@ class TagBox extends Component {
   }
 
   render() {
+    const { tagName } = this.props;
     return (
-      <div className="TagBox">
-        {`#${this.props.tagName.toUpperCase()}`}
-      </div>
+      <Link className="TagBox" to={`/craft/${tagName}`}>
+        {`#${tagName.toUpperCase()}`}
+      </Link>
     );
   }
 }

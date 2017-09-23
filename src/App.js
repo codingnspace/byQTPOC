@@ -1,13 +1,16 @@
-import React, { Component } from 'react';
-import { Provider } from 'react-redux';
+import React, { Component } from 'react'
+import { Provider } from 'react-redux'
+import {
+  BrowserRouter as Router,
+  Route
+} from 'react-router-dom'
 
-import CreatorsList from './CreatorsList';
-import SearchForm from './SearchWidget';
-import TagGrid from './TagGrid';
+import CreatorsList from './CreatorsList'
+import SearchForm from './SearchWidget'
+import TagGrid from './TagGrid'
 
-import Creators from './Creators.json';
-import './App.css';
-import { store } from './store';
+import './App.css'
+import { store } from './store'
 
 class App extends Component {
   render() {
@@ -15,12 +18,13 @@ class App extends Component {
     "Classic Arts", "Technology", "Film", "Fashion", "Culinary Arts"];
     return (
       <Provider store={store}>
-        <div className="App">
-          <SearchForm />
-          <TagGrid tags= {artForms} />
-          <CreatorsList creators={Creators.creators} />
-          />
-        </div>
+        <Router>
+          <div className="App">
+            <SearchForm />
+            <TagGrid tags= {artForms} />
+            <Route path="/craft/:craft" component={CreatorsList} />
+          </div>
+        </Router>
       </Provider>
     );
   }
