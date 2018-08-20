@@ -191,6 +191,788 @@
         "fbi": "https://vault.fbi.gov/james-baldwin"
       },
       "photo":"https://cdn-images-1.medium.com/max/1600/1*fbPgxiMGfhR3AxkL3LEuIg.jpeg"
+    },
+    {
+        "firstName":"",
+        "lastName":"",
+        "born":"",
+        "death":"",
+        "bio":"",
+        "quote":"",
+        "famousWorks": [
+          {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }
+        ],
+        "obscureWorks":[
+          {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }
+        ],
+      "tags":[],
+      "craft": [],
+      "socialLinks":{
+        "wiki": "",
+        "facebook": "",
+        "twitter": "",
+        "pinterest": "",
+        "instagram": "",
+        "url": "",
+        "linkedin": "",
+        "gplus": "",
+        "youtube": ""
+      },
+      "photo":""
+    },
+    {
+        "firstName":"",
+        "lastName":"",
+        "born":"",
+        "death":"",
+        "bio":"",
+        "quote":"",
+        "famousWorks": [
+          {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }
+        ],
+        "obscureWorks":[
+          {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }
+        ],
+      "tags":[],
+      "craft": [],
+      "socialLinks":{
+        "wiki": "",
+        "facebook": "",
+        "twitter": "",
+        "pinterest": "",
+        "instagram": "",
+        "url": "",
+        "linkedin": "",
+        "gplus": "",
+        "youtube": ""
+      },
+      "photo":""
+    },
+    {
+        "firstName":"",
+        "lastName":"",
+        "born":"",
+        "death":"",
+        "bio":"",
+        "quote":"",
+        "famousWorks": [
+          {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }
+        ],
+        "obscureWorks":[
+          {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }
+        ],
+      "tags":[],
+      "craft": [],
+      "socialLinks":{
+        "wiki": "",
+        "facebook": "",
+        "twitter": "",
+        "pinterest": "",
+        "instagram": "",
+        "url": "",
+        "linkedin": "",
+        "gplus": "",
+        "youtube": ""
+      },
+      "photo":""
+    },
+    {
+        "firstName":"",
+        "lastName":"",
+        "born":"",
+        "death":"",
+        "bio":"",
+        "quote":"",
+        "famousWorks": [
+          {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }
+        ],
+        "obscureWorks":[
+          {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }
+        ],
+      "tags":[],
+      "craft": [],
+      "socialLinks":{
+        "wiki": "",
+        "facebook": "",
+        "twitter": "",
+        "pinterest": "",
+        "instagram": "",
+        "url": "",
+        "linkedin": "",
+        "gplus": "",
+        "youtube": ""
+      },
+      "photo":""
+    },
+    {
+        "firstName":"",
+        "lastName":"",
+        "born":"",
+        "death":"",
+        "bio":"",
+        "quote":"",
+        "famousWorks": [
+          {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }
+        ],
+        "obscureWorks":[
+          {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }
+        ],
+      "tags":[],
+      "craft": [],
+      "socialLinks":{
+        "wiki": "",
+        "facebook": "",
+        "twitter": "",
+        "pinterest": "",
+        "instagram": "",
+        "url": "",
+        "linkedin": "",
+        "gplus": "",
+        "youtube": ""
+      },
+      "photo":""
+    },
+    {
+        "firstName":"",
+        "lastName":"",
+        "born":"",
+        "death":"",
+        "bio":"",
+        "quote":"",
+        "famousWorks": [
+          {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }
+        ],
+        "obscureWorks":[
+          {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }
+        ],
+      "tags":[],
+      "craft": [],
+      "socialLinks":{
+        "wiki": "",
+        "facebook": "",
+        "twitter": "",
+        "pinterest": "",
+        "instagram": "",
+        "url": "",
+        "linkedin": "",
+        "gplus": "",
+        "youtube": ""
+      },
+      "photo":""
+    },
+    {
+        "firstName":"",
+        "lastName":"",
+        "born":"",
+        "death":"",
+        "bio":"",
+        "quote":"",
+        "famousWorks": [
+          {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }
+        ],
+        "obscureWorks":[
+          {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }
+        ],
+      "tags":[],
+      "craft": [],
+      "socialLinks":{
+        "wiki": "",
+        "facebook": "",
+        "twitter": "",
+        "pinterest": "",
+        "instagram": "",
+        "url": "",
+        "linkedin": "",
+        "gplus": "",
+        "youtube": ""
+      },
+      "photo":""
+    },
+    {
+        "firstName":"",
+        "lastName":"",
+        "born":"",
+        "death":"",
+        "bio":"",
+        "quote":"",
+        "famousWorks": [
+          {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }
+        ],
+        "obscureWorks":[
+          {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }
+        ],
+      "tags":[],
+      "craft": [],
+      "socialLinks":{
+        "wiki": "",
+        "facebook": "",
+        "twitter": "",
+        "pinterest": "",
+        "instagram": "",
+        "url": "",
+        "linkedin": "",
+        "gplus": "",
+        "youtube": ""
+      },
+      "photo":""
+    },
+    {
+        "firstName":"",
+        "lastName":"",
+        "born":"",
+        "death":"",
+        "bio":"",
+        "quote":"",
+        "famousWorks": [
+          {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }
+        ],
+        "obscureWorks":[
+          {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }
+        ],
+      "tags":[],
+      "craft": [],
+      "socialLinks":{
+        "wiki": "",
+        "facebook": "",
+        "twitter": "",
+        "pinterest": "",
+        "instagram": "",
+        "url": "",
+        "linkedin": "",
+        "gplus": "",
+        "youtube": ""
+      },
+      "photo":""
+    },
+    {
+        "firstName":"",
+        "lastName":"",
+        "born":"",
+        "death":"",
+        "bio":"",
+        "quote":"",
+        "famousWorks": [
+          {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }
+        ],
+        "obscureWorks":[
+          {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }
+        ],
+      "tags":[],
+      "craft": [],
+      "socialLinks":{
+        "wiki": "",
+        "facebook": "",
+        "twitter": "",
+        "pinterest": "",
+        "instagram": "",
+        "url": "",
+        "linkedin": "",
+        "gplus": "",
+        "youtube": ""
+      },
+      "photo":""
+    },
+    {
+        "firstName":"",
+        "lastName":"",
+        "born":"",
+        "death":"",
+        "bio":"",
+        "quote":"",
+        "famousWorks": [
+          {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }
+        ],
+        "obscureWorks":[
+          {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }
+        ],
+      "tags":[],
+      "craft": [],
+      "socialLinks":{
+        "wiki": "",
+        "facebook": "",
+        "twitter": "",
+        "pinterest": "",
+        "instagram": "",
+        "url": "",
+        "linkedin": "",
+        "gplus": "",
+        "youtube": ""
+      },
+      "photo":""
+    },
+    {
+        "firstName":"",
+        "lastName":"",
+        "born":"",
+        "death":"",
+        "bio":"",
+        "quote":"",
+        "famousWorks": [
+          {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }
+        ],
+        "obscureWorks":[
+          {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }
+        ],
+      "tags":[],
+      "craft": [],
+      "socialLinks":{
+        "wiki": "",
+        "facebook": "",
+        "twitter": "",
+        "pinterest": "",
+        "instagram": "",
+        "url": "",
+        "linkedin": "",
+        "gplus": "",
+        "youtube": ""
+      },
+      "photo":""
+    },
+    {
+        "firstName":"",
+        "lastName":"",
+        "born":"",
+        "death":"",
+        "bio":"",
+        "quote":"",
+        "famousWorks": [
+          {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }
+        ],
+        "obscureWorks":[
+          {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }
+        ],
+      "tags":[],
+      "craft": [],
+      "socialLinks":{
+        "wiki": "",
+        "facebook": "",
+        "twitter": "",
+        "pinterest": "",
+        "instagram": "",
+        "url": "",
+        "linkedin": "",
+        "gplus": "",
+        "youtube": ""
+      },
+      "photo":""
+    },
+    {
+        "firstName":"",
+        "lastName":"",
+        "born":"",
+        "death":"",
+        "bio":"",
+        "quote":"",
+        "famousWorks": [
+          {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }
+        ],
+        "obscureWorks":[
+          {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }
+        ],
+      "tags":[],
+      "craft": [],
+      "socialLinks":{
+        "wiki": "",
+        "facebook": "",
+        "twitter": "",
+        "pinterest": "",
+        "instagram": "",
+        "url": "",
+        "linkedin": "",
+        "gplus": "",
+        "youtube": ""
+      },
+      "photo":""
+    },
+    {
+        "firstName":"",
+        "lastName":"",
+        "born":"",
+        "death":"",
+        "bio":"",
+        "quote":"",
+        "famousWorks": [
+          {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }
+        ],
+        "obscureWorks":[
+          {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }
+        ],
+      "tags":[],
+      "craft": [],
+      "socialLinks":{
+        "wiki": "",
+        "facebook": "",
+        "twitter": "",
+        "pinterest": "",
+        "instagram": "",
+        "url": "",
+        "linkedin": "",
+        "gplus": "",
+        "youtube": ""
+      },
+      "photo":""
+    },
+    {
+        "firstName":"",
+        "lastName":"",
+        "born":"",
+        "death":"",
+        "bio":"",
+        "quote":"",
+        "famousWorks": [
+          {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }
+        ],
+        "obscureWorks":[
+          {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }
+        ],
+      "tags":[],
+      "craft": [],
+      "socialLinks":{
+        "wiki": "",
+        "facebook": "",
+        "twitter": "",
+        "pinterest": "",
+        "instagram": "",
+        "url": "",
+        "linkedin": "",
+        "gplus": "",
+        "youtube": ""
+      },
+      "photo":""
+    },
+    {
+        "firstName":"",
+        "lastName":"",
+        "born":"",
+        "death":"",
+        "bio":"",
+        "quote":"",
+        "famousWorks": [
+          {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }
+        ],
+        "obscureWorks":[
+          {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }, {
+              "link":"",
+              "name": ""
+          }
+        ],
+      "tags":[],
+      "craft": [],
+      "socialLinks":{
+        "wiki": "",
+        "facebook": "",
+        "twitter": "",
+        "pinterest": "",
+        "instagram": "",
+        "url": "",
+        "linkedin": "",
+        "gplus": "",
+        "youtube": ""
+      },
+      "photo":""
     }
   ]
 }
