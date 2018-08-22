@@ -94,13 +94,13 @@
         "youtube": "https://en.wikipedia.org/wiki/James_Baldwin",
         "fbi": "https://vault.fbi.gov/james-baldwin"
       },
-      "photo":"https://cdn-images-1.medium.com/max/1600/1*fbPgxiMGfhR3AxkL3LEuIg.jpeg"
+      "photo":"https://www.uis.edu/gendersexualitystudentservices/wp-content/uploads/sites/83/2013/04/LangstonHughes2.jpg"
     },
     {
         "firstName":"Pearl",
-        "lastName":"Christine",
-        "born":"February 9th, 1945",
-        "death":"April 2nd, 1987",
+        "lastName":"McPhee",
+        "born":"August 31",
+        "death":"",
         "bio":"Baldwin was a force to be reckoned with. He was the best at what he did. He is the reason that the civil rights movement was so extraordinary. He was the besties with MLK, Malcom X and megar ever. There is a movie that features him released in 2014. Many don't know he was also a childrens book writer",
         "quote":"Nothing that isn't faced can be changed and nothing can be changed until faced",
         "famousWorks": [
@@ -129,7 +129,7 @@
         ],
       "tags":["fiction", "black", "african american", "gay", "male", "cis", "childrens books",
         "non-fiction", "civil rights movement"],
-      "craft": ["Fiction", "Non-Fiction", "Poetry", "Photography"],
+      "craft": ["Technology"],
       "socialLinks":{
         "wiki": "https://en.wikipedia.org/wiki/James_Baldwin",
         "facebook": "https://en.wikipedia.org/wiki/James_Baldwin",
@@ -147,832 +147,397 @@
     {
         "firstName":"Audre",
         "lastName":"Lorde",
-        "born":"February 9th, 1945",
-        "death":"April 2nd, 1987",
-        "bio":"Baldwin was a force to be reckoned with. He was the best at what he did. He is the reason that the civil rights movement was so extraordinary. He was the besties with MLK, Malcom X and megar ever. There is a movie that features him released in 2014. Many don't know he was also a childrens book writer",
-        "quote":"Nothing that isn't faced can be changed and nothing can be changed until faced",
-        "famousWorks": [
-          {
-              "link":"https://www.amazon.com/Giovannis-Room-James-Baldwin/dp/0345806565/ref=sr_1_8?s=books&ie=UTF8&qid=1499628458&sr=1-8&keywords=james+baldwin",
-              "name": "Giovanni's Room"
-          }, {
-              "link":"https://www.amazon.com/Fire-Next-Time-James-Baldwin/dp/067974472X/ref=sr_1_1?s=books&ie=UTF8&qid=1499628458&sr=1-1&keywords=james+baldwin",
-              "name": "The Fire Next Time"
-          }, {
-              "link":"https://www.amazon.com/Go-Tell-Mountain-Vintage-International/dp/0345806549/ref=sr_1_6?s=books&ie=UTF8&qid=1499628458&sr=1-6&keywords=james+baldwin",
-              "name": "Go Tell it on the Mountain"
-          }
-        ],
-        "obscureWorks":[
-          {
-              "link":"https://www.amazon.com/Giovannis-Room-James-Baldwin/dp/0345806565/ref=sr_1_8?s=books&ie=UTF8&qid=1499628458&sr=1-8&keywords=james+baldwin",
-              "name": "Giovanni's Room"
-          }, {
-              "link":"https://www.amazon.com/Fire-Next-Time-James-Baldwin/dp/067974472X/ref=sr_1_1?s=books&ie=UTF8&qid=1499628458&sr=1-1&keywords=james+baldwin",
-              "name": "The Fire Next Time"
-          }, {
-              "link":"https://www.amazon.com/Go-Tell-Mountain-Vintage-International/dp/0345806549/ref=sr_1_6?s=books&ie=UTF8&qid=1499628458&sr=1-6&keywords=james+baldwin",
-              "name": "Go Tell it on the Mountain"
-          }
-        ],
-      "tags":["fiction", "black", "african american", "lesbian", "woman", "cis", "childrens books",
-        "non-fiction", "civil rights movement"],
-      "craft": ["Fiction", "Film", "Poetry", "Theater", "Dance", "Music"],
-      "socialLinks":{
-        "wiki": "https://en.wikipedia.org/wiki/James_Baldwin",
-        "facebook": "https://en.wikipedia.org/wiki/James_Baldwin",
-        "twitter": "https://en.wikipedia.org/wiki/James_Baldwin",
-        "pinterest": "https://en.wikipedia.org/wiki/James_Baldwin",
-        "instagram": "https://en.wikipedia.org/wiki/James_Baldwin",
-        "url": "https://en.wikipedia.org/wiki/James_Baldwin",
-        "linkedin": "https://en.wikipedia.org/wiki/James_Baldwin",
-        "gplus": "https://en.wikipedia.org/wiki/James_Baldwin",
-        "youtube": "https://en.wikipedia.org/wiki/James_Baldwin",
-        "fbi": "https://vault.fbi.gov/james-baldwin"
-      },
-      "photo":"https://cdn-images-1.medium.com/max/1600/1*fbPgxiMGfhR3AxkL3LEuIg.jpeg"
-    },
-    {
-        "firstName":"",
-        "lastName":"",
-        "born":"",
-        "death":"",
-        "bio":"",
-        "quote":"",
+        "born":"February 18, 1934",
+        "death":"November 17, 1992",
+        "bio":"A self-described “black, lesbian, mother, warrior, poet,” Audre Lorde dedicated both her life and her creative talent to confronting and addressing injustices of racism, sexism, classism, and homophobia. Lorde was born in New York City to West Indian immigrant parents. She attended Catholic school and published her first poem in Seventeen magazine while still in high school.",
+        "quote":"When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.",
         "famousWorks": [
           {
               "link":"",
-              "name": ""
+              "name": "The Cancer Journals"
           }, {
               "link":"",
-              "name": ""
+              "name": "Zami: A New Spelling of My Name"
           }, {
               "link":"",
-              "name": ""
+              "name": "Uses of the Erotic"
           }
         ],
         "obscureWorks":[
           {
               "link":"",
-              "name": ""
+              "name": "Between Ourselves"
           }, {
               "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
+              "name": "A Burst of Light"
           }
         ],
-      "tags":[],
-      "craft": [],
+      "tags":["african american", "black", "writer", "nonfiction", "poetry", "essays", "film", "cis", "lesbian"],
+      "craft": ["Non-Fiction", "Poetry"],
       "socialLinks":{
-        "wiki": "",
+        "wiki": "https://en.wikipedia.org/wiki/Audre_Lorde",
         "facebook": "",
         "twitter": "",
         "pinterest": "",
         "instagram": "",
+        "url": "https://www.poetryfoundation.org/poets/audre-lorde",
+        "linkedin": "",
+        "gplus": "",
+        "youtube": ""
+      },
+      "photo":"http://userscontent2.emaze.com/images/830c353f-b190-4b00-8107-2ef4508112ed/635369094848665656_authoraudrelorde1.jpg"
+    },
+    {
+        "firstName":"Alice",
+        "lastName":"Walker",
+        "born":"February 9, 1944",
+        "death":"",
+        "bio":"Alice Walker is an American novelist, short story writer, poet, and activist. She wrote the novel The Color Purple (1982), for which she won the National Book Award for hardcover fiction, and the Pulitzer Prize for Fiction. She also wrote the novels Meridian (1976) and The Third Life of Grange Copeland (1970), among other works. An avowed feminist, Walker coined the term 'womanist' to mean 'A black feminist or feminist of color' in 1983.",
+        "quote":"The most common way people give up their power is by thinking they don't have any.",
+        "famousWorks": [
+          {
+              "link":"",
+              "name": "The Color Purple"
+          }, {
+              "link":"",
+              "name": "In Search of Our Mother's Gardens"
+          }
+        ],
+        "obscureWorks":[
+          {
+              "link":"",
+              "name": "Go Girl!: The Black Woman's Book of Travel and Adventure"
+          }, {
+              "link":"",
+              "name": "By the Light of My Father's Smile"
+          }
+        ],
+      "tags":["black", "african american", "no label", "civil rights movement", "womanism", "feminism", "cis", "fiction", "nonfiction", "poetry", "short stories"],
+      "craft": ["Fiction", "Nonfiction", "poetry"],
+      "socialLinks":{
+        "wiki": "https://en.wikipedia.org/wiki/Alice_Walker",
+        "facebook": "",
+        "twitter": "",
+        "pinterest": "",
+        "instagram": "",
+        "url": "http://alicewalkersgarden.com/",
+        "linkedin": "",
+        "gplus": "",
+        "youtube": ""
+      },
+      "photo": "https://www.electronicvillage.org/upload/articles/1661_articleicon.jpg"
+    },
+    {
+        "firstName":"Wanda",
+        "lastName":"Sykes",
+        "born":"March 7, 1964",
+        "death":"",
+        "bio":"",
+        "quote": "Ya know...at first I wanted a female President. Then I thought another black President would be good, but now I just want an American President.",
+        "famousWorks": [
+          {
+              "link":"",
+              "name": "Monster-in-Law"
+          }, {
+              "link":"",
+              "name": "Old Christine"
+          }, {
+              "link":"",
+              "name": "Black-ish"
+          }
+        ],
+        "obscureWorks":[
+          {
+              "link":"",
+              "name": "Brother Bear 2"
+          }, {
+              "link":"",
+              "name": "Crank Yankers"
+          }
+        ],
+      "tags":["black", "african american", "lesbian", "comedian", "actress", "producer", "TV", "writer"],
+      "craft": ["Film"],
+      "socialLinks":{
+        "wiki": "https://en.wikipedia.org/wiki/Wanda_Sykes",
+        "facebook": "https://www.facebook.com/iamwandasykes/",
+        "twitter": "https://twitter.com/iamwandasykes?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+        "pinterest": "",
+        "instagram": "",
+        "url": "https://www.wandasykes.com/",
+        "imdb": " https://www.imdb.com/name/nm0843100/",
+        "linkedin": "",
+        "gplus": "",
+        "youtube": ""
+      },
+      "photo":"https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/13407020_895290377264074_4368475154419895635_n.jpg?_nc_cat=0&oh=e5627459f2219a8e096caa55edbde147&oe=5BF60184"
+    },
+    {
+        "firstName": "Lena",
+        "lastName": "Waithe",
+        "born":"May 17, 1984",
+        "death":"",
+        "bio": "Waithe was born in Chicago, Illinois.[8][9] Though acting was not originally among Waithe's ambitions,[10][11] she knew from the age of seven that she wanted to be a television writer, and received strong family support for her writing from her single mother and grandmother.[2] Her parents divorced when she was three. Waithe and her sister grew up on the South Side of Chicago until Waithe was age twelve, and attended a local, mostly African-American Elementary magnet school, Turner-Drew. She graduated from Evanston Township High Schooland earned a degree in Cinema and Television Arts from Columbia College Chicago in 2006, praising faculty playwright Michael Fry for his teaching and encouragement.",
+        "quote":"I love you all and, last but certainly not least, my L.G.B.T.Q.I.A. family. . . . The things that make us different, those are our superpowers.",
+        "famousWorks": [
+          {
+              "link":"",
+              "name": "Master of None"
+          }, {
+              "link":"",
+              "name": "Chi"
+          }, {
+              "link":"",
+              "name": "Dear White People"
+          }
+        ],
+        "obscureWorks":[
+          {
+              "link":"",
+              "name": "How to Rock"
+          }, {
+              "link":"",
+              "name": "Hello Cupid"
+          }
+        ],
+      "tags":["black", "african american", "TV", "writer", "actor", "cis", "queer"],
+      "craft": ["film"],
+      "socialLinks":{
+        "wiki": "https://en.wikipedia.org/wiki/Lena_Waithe",
+        "facebook": "",
+        "imdb": "https://www.imdb.com/name/nm2913119/",
+        "twitter": "https://twitter.com/LenaWaithe?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+        "pinterest": "",
+        "instagram": "https://www.instagram.com/lenawaithe/?hl=en",
         "url": "",
         "linkedin": "",
         "gplus": "",
         "youtube": ""
       },
-      "photo":""
+      "photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Lena_Waithe_by_Gage_Skidmore.jpg/220px-Lena_Waithe_by_Gage_Skidmore.jpg"
     },
     {
-        "firstName":"",
-        "lastName":"",
-        "born":"",
+        "firstName":"Janet",
+        "lastName":"Mock",
+        "born":"March 10, 1983",
         "death":"",
-        "bio":"",
-        "quote":"",
+        "bio":"Janet Mock was born in Honolulu, Hawaii, the second child in the family.Her father, Charlie Mock III, is African American, and her mother, Elizabeth (Barrett), is of half native Hawaiian descent and half European descent. Mock lived for most of her youth in her native Hawaii, with a portion in Oakland, California and Dallas. She began her transition from male to female as a freshman in high school, and funded her medical transition by earning money as a sex worker in her teens. She played volleyball in high school, a sport she had bonded over with her childhood friend Wendi, who helped Janet express her femininity. She chose her name Janet after Janet Jackson. She was the first person in her family to go to college. She underwent sex reassignment surgery in Thailand at age 18 in the middle of her first year in college. Mock earned a Bachelor of Arts in Fashion Merchandising from the University of Hawaii at Manoa in 2004 and a Master of Arts in Journalism from New York University in 2006.",
+        "quote":"‘I’d never seen a young trans woman who was thriving in the world – I was looking for that’",
         "famousWorks": [
           {
               "link":"",
-              "name": ""
+              "name": "Redefining Realness"
           }, {
               "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
+              "name": "Surpassing Certainty"
           }
         ],
-        "obscureWorks":[
+        "obscureWorks":[],
+      "tags":["black", "african american", "trans", "writer", "fashion", "TV"],
+      "craft": ["Non-Fiction", "Film"],
+      "socialLinks":{
+        "wiki": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/janetmock?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+        "pinterest": "",
+        "instagram": "https://www.instagram.com/janetmock/?hl=en",
+        "url": "https://janetmock.com/",
+        "linkedin": "",
+        "gplus": "",
+        "youtube": ""
+      },
+      "photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Janet_Mock_Head_Shot.png/220px-Janet_Mock_Head_Shot.png"
+    },
+    {
+        "firstName":"Jes",
+        "lastName":"Tom",
+        "born":"",
+        "death":"",
+        "bio":"Jes Tom (they/them) is a weird queer standup comic based in NYC, gleefully providing the nonbinary queer Asian American radical cyborg perspective that everyone never knew they wanted. You can find them on Instagram @jesthekid and watch the short film they created with fellow comic Chewy May",
+        "quote":"The world deserves to hear your voice, and you deserve to laugh.",
+        "famousWorks": [
           {
               "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
+              "name": "Fresh Off the Banana Boat"
           }
         ],
-      "tags":[],
-      "craft": [],
+        "obscureWorks":[],
+      "tags":["asian", "asian american", "comedian", "nonbinary", "queer"],
+      "craft": ["Film", "Theater"],
       "socialLinks":{
         "wiki": "",
         "facebook": "",
         "twitter": "",
         "pinterest": "",
-        "instagram": "",
-        "url": "",
+        "instagram": "https://www.instagram.com/jesthekid/?hl=en",
+        "url": "https://www.jestomdotcom.com/",
         "linkedin": "",
         "gplus": "",
         "youtube": ""
       },
-      "photo":""
+      "photo":"https://pbs.twimg.com/profile_images/967298558528548864/xascbyaV_400x400.jpg"
     },
     {
-        "firstName":"",
-        "lastName":"",
-        "born":"",
-        "death":"",
-        "bio":"",
-        "quote":"",
+        "firstName":"June",
+        "lastName":"Jordan",
+        "born":"July 9, 1936",
+        "death":"June 14, 2002",
+        "bio":"One of the most widely-published and highly-acclaimed African American writers of her generation, poet, playwright and essayist June Jordan was known for her fierce commitment to human rights and political activism. Over a career that produced twenty-seven volumes of poems, essays, libretti, and work for children, Jordan engaged the fundamental struggles of her era: for civil rights, women’s rights, and sexual freedom.",
+        "quote":"Poetry is a political act because it involves telling the truth.",
         "famousWorks": [
           {
               "link":"",
-              "name": ""
+              "name": "Who Look at Me"
           }, {
               "link":"",
-              "name": ""
+              "name": "Directed by Desire"
           }, {
               "link":"",
-              "name": ""
+              "name": "Some of Us Did Not Die"
           }
         ],
         "obscureWorks":[
           {
               "link":"",
-              "name": ""
+              "name": "The Voice of the Children"
           }, {
               "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
+              "name": "Things That I Do in the Dark: Selected Poems, 1954–1977"
           }
         ],
-      "tags":[],
-      "craft": [],
+      "tags":["black", "african american", "bisexual", "cis", "civil rights movement", "sexuality", "feminism", "playwright"],
+      "craft": ["Poetry", "Theater"],
       "socialLinks":{
-        "wiki": "",
+        "wiki": "https://en.wikipedia.org/wiki/June_Jordan",
         "facebook": "",
         "twitter": "",
         "pinterest": "",
         "instagram": "",
-        "url": "",
+        "url": "http://www.junejordan.net/",
         "linkedin": "",
         "gplus": "",
         "youtube": ""
       },
-      "photo":""
+      "photo":"https://media.poetryfoundation.org/m/image/435/june-jordan.jpg?w=970&h=&fit=max&970"
     },
     {
-        "firstName":"",
-        "lastName":"",
-        "born":"",
+        "firstName":"Azealia",
+        "lastName":"Banks",
+        "born":"May 31, 1991",
         "death":"",
-        "bio":"",
-        "quote":"",
+        "bio":"Azealia Amanda Banks was born on May 31, 1991, in New York City's Manhattan borough.Her mother raised her and two older sisters in Harlem, after their father died of pancreatic cancer when she was two years old. Following her father's death, Banks says that her mother 'became really abusive—physically and verbally. Like she would hit me and my sisters with baseball bats, bang our heads up against walls, and she would always tell me I was ugly. I remember once she threw out all the food in the fridge, just so we wouldn't have anything to eat.' Due to escalating violence, Banks moved out of her mother's home at age 14 to live with her older sister",
+        "quote":"I don't want to be nice. Nice girls can only get what they're offered.",
         "famousWorks": [
           {
               "link":"",
-              "name": ""
+              "name": "212"
           }, {
               "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
+              "name": "Broke With Expensive Taste"
           }
         ],
         "obscureWorks":[
           {
               "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
+              "name": "The American Ruling Class"
           }
         ],
-      "tags":[],
-      "craft": [],
+      "tags":["black", "african american", "rapper", "musician", "actor", "cis", "bisexual", "songwriter", "singer"],
+      "craft": ["Music", "Film"],
       "socialLinks":{
-        "wiki": "",
+        "wiki": "https://en.wikipedia.org/wiki/Azealia_Banks",
         "facebook": "",
         "twitter": "",
         "pinterest": "",
-        "instagram": "",
-        "url": "",
+        "instagram": "https://www.instagram.com/azealiabanks/?hl=en",
+        "url": "https://www.azealiabanks.com/",
         "linkedin": "",
         "gplus": "",
         "youtube": ""
       },
-      "photo":""
+      "photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Azealia_Banks_2012_NME_Awards_cropped.jpg/220px-Azealia_Banks_2012_NME_Awards_cropped.jpg"
     },
     {
-        "firstName":"",
-        "lastName":"",
-        "born":"",
+        "firstName":"Angel",
+        "lastName":"Haze",
+        "born":"July 10, 1991",
         "death":"",
-        "bio":"",
-        "quote":"",
+        "bio":"Angel Haze was born Raykea Roes Wilson. Wilson was born in Detroit, Michigan to a military family. Wilson's father, who passed away from a gunshot wound before Wilson was born, was African American and their mother is a Native American Cherokee. When Wilson was a young child their mother met a preacher in the Greater Apostolic Faith and she moved into his home with his wife and children, into what Wilson describes as a cult. Growing up in the church, Wilson witnessed domestic violence and manipulation at a very young age.As a child, Wilson was sexually abused by a man close to the family. Wilson also recalls being told that they would die spontaneously if they didn't behave correctly. In an interview with The Guardian, Wilson stated: we all lived in the same community, within 10 minutes of each other. You weren't allowed to talk to anyone outside of that, you weren't allowed to wear jewelry, listen to music, to eat certain things, to date people...you weren't allowed to do pretty much anything.",
+        "quote":"It took me a long time to understand that life hurts enough, people hurt you enough, you don’t need to hurt yourself. You have to make the decision to take care of yourself. I know I sound a bit like a motivational speaker when I say shit like that but sometimes that’s what it takes.",
         "famousWorks": [
           {
               "link":"",
-              "name": ""
+              "name": "No Bueno"
           }, {
               "link":"",
-              "name": ""
+              "name": "Dirty Gold"
           }, {
               "link":"",
-              "name": ""
+              "name": "Battle Cry"
           }
         ],
         "obscureWorks":[
           {
               "link":"",
-              "name": ""
+              "name": "This is Me"
           }, {
               "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
+              "name": "Catfish"
           }
         ],
-      "tags":[],
-      "craft": [],
+      "tags":["black", "african american", "native american", "multiracial", "agender", "pansexual", "rapper", "singer", "songwriter", "poet", "fashion", "model"],
+      "craft": ["Music", "Fashion", "Poetry"],
       "socialLinks":{
         "wiki": "",
-        "facebook": "",
-        "twitter": "",
+        "facebook": "https://www.facebook.com/AngelHazemusic/",
+        "twitter": "https://twitter.com/AngelHaze?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
         "pinterest": "",
-        "instagram": "",
-        "url": "",
+        "instagram": "https://www.instagram.com/angxlhxze/?hl=en",
+        "url": "https://www.angelhazemusic.com/",
         "linkedin": "",
         "gplus": "",
         "youtube": ""
       },
-      "photo":""
+      "photo":"https://www.billboard.com/files/styles/768x433/public/media/Angel-Haze-press-photo-2017-billboard-fea-1500.jpg"
     },
     {
-        "firstName":"",
-        "lastName":"",
-        "born":"",
-        "death":"",
-        "bio":"",
-        "quote":"",
+        "firstName":"Gloria",
+        "lastName":"Anzaldúa",
+        "born":"September 26, 1942",
+        "death":"May 15, 2004",
+        "bio":"Gloria Evangelina Anzaldúa was an American scholar of Chicana cultural theory, feminist theory, and queer theory. She loosely based her best-known book, Borderlands/La Frontera: The New Mestiza, on her life growing up on the Mexico–Texas border and incorporated her lifelong feelings of social and cultural marginalization into her work. She also developed theories about the marginal, in-between, and mixed cultures that develop along borders.",
+        "quote":"A woman who writes has power, and a woman with power is feared.",
         "famousWorks": [
           {
               "link":"",
-              "name": ""
+              "name": "Borderlands/La Fronteria"
           }, {
               "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
+              "name": "This Bridge Called My Back"
           }
         ],
         "obscureWorks":[
           {
               "link":"",
-              "name": ""
+              "name": "Light in the Dark/Luz en lo Oscuro: Rewriting Identity, Spirituality, Reality"
           }, {
               "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
+              "name": "Prietita Has a Friend"
           }
         ],
-      "tags":[],
-      "craft": [],
+      "tags":["chicana", "mexian", "mexican american", "indigenous", "latinx", "lesbian", "nonfiction", "poetry"],
+      "craft": ["Non-Fiction", "Poetry"],
       "socialLinks":{
-        "wiki": "",
+        "wiki": "https://en.wikipedia.org/wiki/Gloria_E._Anzald%C3%BAa",
         "facebook": "",
         "twitter": "",
         "pinterest": "",
         "instagram": "",
-        "url": "",
+        "url": "https://www.poetryfoundation.org/poets/gloria-e-anzaldua",
         "linkedin": "",
         "gplus": "",
         "youtube": ""
       },
-      "photo":""
-    },
-    {
-        "firstName":"",
-        "lastName":"",
-        "born":"",
-        "death":"",
-        "bio":"",
-        "quote":"",
-        "famousWorks": [
-          {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }
-        ],
-        "obscureWorks":[
-          {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }
-        ],
-      "tags":[],
-      "craft": [],
-      "socialLinks":{
-        "wiki": "",
-        "facebook": "",
-        "twitter": "",
-        "pinterest": "",
-        "instagram": "",
-        "url": "",
-        "linkedin": "",
-        "gplus": "",
-        "youtube": ""
-      },
-      "photo":""
-    },
-    {
-        "firstName":"",
-        "lastName":"",
-        "born":"",
-        "death":"",
-        "bio":"",
-        "quote":"",
-        "famousWorks": [
-          {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }
-        ],
-        "obscureWorks":[
-          {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }
-        ],
-      "tags":[],
-      "craft": [],
-      "socialLinks":{
-        "wiki": "",
-        "facebook": "",
-        "twitter": "",
-        "pinterest": "",
-        "instagram": "",
-        "url": "",
-        "linkedin": "",
-        "gplus": "",
-        "youtube": ""
-      },
-      "photo":""
-    },
-    {
-        "firstName":"",
-        "lastName":"",
-        "born":"",
-        "death":"",
-        "bio":"",
-        "quote":"",
-        "famousWorks": [
-          {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }
-        ],
-        "obscureWorks":[
-          {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }
-        ],
-      "tags":[],
-      "craft": [],
-      "socialLinks":{
-        "wiki": "",
-        "facebook": "",
-        "twitter": "",
-        "pinterest": "",
-        "instagram": "",
-        "url": "",
-        "linkedin": "",
-        "gplus": "",
-        "youtube": ""
-      },
-      "photo":""
-    },
-    {
-        "firstName":"",
-        "lastName":"",
-        "born":"",
-        "death":"",
-        "bio":"",
-        "quote":"",
-        "famousWorks": [
-          {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }
-        ],
-        "obscureWorks":[
-          {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }
-        ],
-      "tags":[],
-      "craft": [],
-      "socialLinks":{
-        "wiki": "",
-        "facebook": "",
-        "twitter": "",
-        "pinterest": "",
-        "instagram": "",
-        "url": "",
-        "linkedin": "",
-        "gplus": "",
-        "youtube": ""
-      },
-      "photo":""
-    },
-    {
-        "firstName":"",
-        "lastName":"",
-        "born":"",
-        "death":"",
-        "bio":"",
-        "quote":"",
-        "famousWorks": [
-          {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }
-        ],
-        "obscureWorks":[
-          {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }
-        ],
-      "tags":[],
-      "craft": [],
-      "socialLinks":{
-        "wiki": "",
-        "facebook": "",
-        "twitter": "",
-        "pinterest": "",
-        "instagram": "",
-        "url": "",
-        "linkedin": "",
-        "gplus": "",
-        "youtube": ""
-      },
-      "photo":""
-    },
-    {
-        "firstName":"",
-        "lastName":"",
-        "born":"",
-        "death":"",
-        "bio":"",
-        "quote":"",
-        "famousWorks": [
-          {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }
-        ],
-        "obscureWorks":[
-          {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }
-        ],
-      "tags":[],
-      "craft": [],
-      "socialLinks":{
-        "wiki": "",
-        "facebook": "",
-        "twitter": "",
-        "pinterest": "",
-        "instagram": "",
-        "url": "",
-        "linkedin": "",
-        "gplus": "",
-        "youtube": ""
-      },
-      "photo":""
-    },
-    {
-        "firstName":"",
-        "lastName":"",
-        "born":"",
-        "death":"",
-        "bio":"",
-        "quote":"",
-        "famousWorks": [
-          {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }
-        ],
-        "obscureWorks":[
-          {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }
-        ],
-      "tags":[],
-      "craft": [],
-      "socialLinks":{
-        "wiki": "",
-        "facebook": "",
-        "twitter": "",
-        "pinterest": "",
-        "instagram": "",
-        "url": "",
-        "linkedin": "",
-        "gplus": "",
-        "youtube": ""
-      },
-      "photo":""
-    },
-    {
-        "firstName":"",
-        "lastName":"",
-        "born":"",
-        "death":"",
-        "bio":"",
-        "quote":"",
-        "famousWorks": [
-          {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }
-        ],
-        "obscureWorks":[
-          {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }
-        ],
-      "tags":[],
-      "craft": [],
-      "socialLinks":{
-        "wiki": "",
-        "facebook": "",
-        "twitter": "",
-        "pinterest": "",
-        "instagram": "",
-        "url": "",
-        "linkedin": "",
-        "gplus": "",
-        "youtube": ""
-      },
-      "photo":""
-    },
-    {
-        "firstName":"",
-        "lastName":"",
-        "born":"",
-        "death":"",
-        "bio":"",
-        "quote":"",
-        "famousWorks": [
-          {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }
-        ],
-        "obscureWorks":[
-          {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }
-        ],
-      "tags":[],
-      "craft": [],
-      "socialLinks":{
-        "wiki": "",
-        "facebook": "",
-        "twitter": "",
-        "pinterest": "",
-        "instagram": "",
-        "url": "",
-        "linkedin": "",
-        "gplus": "",
-        "youtube": ""
-      },
-      "photo":""
-    },
-    {
-        "firstName":"",
-        "lastName":"",
-        "born":"",
-        "death":"",
-        "bio":"",
-        "quote":"",
-        "famousWorks": [
-          {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }
-        ],
-        "obscureWorks":[
-          {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }
-        ],
-      "tags":[],
-      "craft": [],
-      "socialLinks":{
-        "wiki": "",
-        "facebook": "",
-        "twitter": "",
-        "pinterest": "",
-        "instagram": "",
-        "url": "",
-        "linkedin": "",
-        "gplus": "",
-        "youtube": ""
-      },
-      "photo":""
-    },
-    {
-        "firstName":"",
-        "lastName":"",
-        "born":"",
-        "death":"",
-        "bio":"",
-        "quote":"",
-        "famousWorks": [
-          {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }
-        ],
-        "obscureWorks":[
-          {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }, {
-              "link":"",
-              "name": ""
-          }
-        ],
-      "tags":[],
-      "craft": [],
-      "socialLinks":{
-        "wiki": "",
-        "facebook": "",
-        "twitter": "",
-        "pinterest": "",
-        "instagram": "",
-        "url": "",
-        "linkedin": "",
-        "gplus": "",
-        "youtube": ""
-      },
-      "photo":""
+      "photo":"https://media.poetryfoundation.org/m/image/1992/Gloria_Anzaldua-processed.jpg?w=970&h=&fit=max&970"
     }
   ]
 }

@@ -1,12 +1,20 @@
 
+.CreatorsList {
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+  width: 95%;
+}
+
 .CreatorCard {
   border: 1px solid black;
   display: inline-block;
+  width: 31%;
   margin: 1em;
-  width: 30%;
 }
 
 .CreatorCard .AuthorPhoto {
+  height: 400px;
   width: 100%;
 }
 
