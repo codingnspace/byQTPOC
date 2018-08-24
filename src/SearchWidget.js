@@ -29,9 +29,6 @@ class SearchWidget extends Component {
           <button onClick={this.handleSearch}>
           Search
         </button>
-        <button className="AdvancedBtn">
-          Advanced
-        </button>
       </form>
     );
   }

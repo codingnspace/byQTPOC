@@ -62,8 +62,12 @@ class CreatorCard extends Component {
           </div>
           <h4>Famous Works</h4>
           <LinkedList links={famousWorks} />
-          <h4>Obscure Works</h4>
-          <LinkedList links={obscureWorks} />
+          {obscureWorks.length > 0 && (
+            <div>
+              <h4>Obscure Works</h4>
+              <LinkedList links={obscureWorks} />
+            </div>
+          )}
           <h4>{`More ${lastName}`}</h4>
           <SocialLinks socialLinks={socialLinks} />
         </div>

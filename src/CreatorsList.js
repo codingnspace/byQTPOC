@@ -18,11 +18,11 @@ class CreatorsList extends Component {
 
     const creatorCardList = Creators.creators
     .filter((creator) => {
-      // const creatorSearchableInfo = creator.bio + creator.famousWorks.map(w => w.name).join()
-      // + creator.obscureWorks.map(w => w.name).join() + creator.firstName + creator.lastName
-      // + creator.tags.join();
-      // return creatorSearchableInfo.toLowerCase().includes(search.toLowerCase());
-      return creator.craft && creator.craft.includes(match.params.craft)
+      const creatorSearchableInfo = creator.bio + creator.famousWorks.map(w => w.name).join()
+      + creator.obscureWorks.map(w => w.name).join() + creator.firstName + creator.lastName
+      + creator.tags.join();
+      return creatorSearchableInfo.toLowerCase().includes(search.toLowerCase());
+      // return creator.craft && creator.craft.includes(match.params.craft)
     }).map((creator) => {
       return (
         <CreatorCard

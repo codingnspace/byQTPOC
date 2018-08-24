@@ -5,6 +5,7 @@ import facebook from './facebook.svg';
 import fbi from './fbi.png';
 import gplus from './gplus.png';
 import instagram from './instagram.png';
+import imdb from './imdb.jpg';
 import linkedin from './linkedin.png';
 import pinterest from './pinterest.png';
 import twitter from './twitter.png';
@@ -25,6 +26,7 @@ class SocialLinks extends Component {
     const socialLinksLogos = {
       facebook,
       fbi,
+      imdb,
       gplus,
       instagram,
       linkedin,
@@ -38,6 +40,7 @@ class SocialLinks extends Component {
     const socialLinksArr = Object.keys(socialLinks);
     const socialLinksList = socialLinksArr
       .sort()
+      .filter(socialLink => socialLinks[socialLink])
       .map((socialLink) => {
         return (
           <a href={socialLinks[socialLink]}>

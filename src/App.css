@@ -7,7 +7,7 @@
 }
 
 .CreatorCard {
-  border: 1px solid black;
+  box-shadow: 10px 10px 26px -8px rgba(0,0,0,0.75);
   display: inline-block;
   width: 31%;
   margin: 1em;
@@ -104,6 +104,10 @@
   margin: 1em;
   padding: 1.5em;
   width: 25%;
+}
+
+a.TagBox {
+  text-decoration: none;
 }
 
 .TagBox:nth-child(even) {
