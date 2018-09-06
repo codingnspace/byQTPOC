@@ -1,9 +1,7 @@
 import React, { Component } from 'react'
 import { Provider } from 'react-redux'
-import {
-  BrowserRouter as Router,
-  Route
-} from 'react-router-dom'
+
+import Creators from './Creators.json'
 
 import CreatorsList from './CreatorsList'
 import SearchForm from './SearchWidget'
@@ -18,13 +16,15 @@ class App extends Component {
     "Classic Arts", "Technology", "Film", "Fashion", "Culinary Arts"];
     return (
       <Provider store={store}>
-        <Router>
-          <div className="App">
-            <SearchForm />
-            <TagGrid tags= {artForms} />
-            <Route path="/craft/:craft" component={CreatorsList} />
+        <div className="App">
+          <div className="App__info">
+            <h1>by: QTPOC</h1>
+            <h4>discover queer and trans creators of color</h4>
           </div>
-        </Router>
+          <SearchForm />
+          <TagGrid tags={artForms} />
+          <CreatorsList creators={Creators} />
+        </div>
       </Provider>
     );
   }

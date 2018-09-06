@@ -19,14 +19,13 @@ class SearchWidget extends Component {
   }
 
   render() {
-    console.log(this.props.search);
     return (
       <form className="SearchWidget" onSubmit={this.handleSearch}>
-        <Field placeholder="Names, title, gender, etc"
+        <Field placeholder="Advanced search by name, genre, gender, etc"
             name="searchKeywords"
             component="input"
             type="text" />
-          <button onClick={this.handleSearch}>
+        <button onClick={this.handleSearch}>
           Search
         </button>
       </form>
@@ -37,6 +36,7 @@ class SearchWidget extends Component {
 const SearchForm = reduxForm({
   form: 'Search'
 })(SearchWidget)
+
 export default connect(null, {
     search
 })(SearchForm)

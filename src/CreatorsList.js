@@ -2,7 +2,6 @@ import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import { connect } from 'react-redux'
 import { getFormValues } from 'redux-form'
-import Creators from './Creators.json'
 
 import CreatorCard from './CreatorCard'
 
@@ -16,7 +15,7 @@ class CreatorsList extends Component {
   render() {
     const { creators, match, search } = this.props;
 
-    const creatorCardList = Creators.creators
+    const creatorCardList = creators.creators
     .filter((creator) => {
       const creatorSearchableInfo = creator.bio + creator.famousWorks.map(w => w.name).join()
       + creator.obscureWorks.map(w => w.name).join() + creator.firstName + creator.lastName
@@ -43,6 +42,11 @@ class CreatorsList extends Component {
 
     return (
       <div className="CreatorsList">
+        <h1>
+          {creatorCardList.length > 0 ? `Showing Results for: "${search || 'All'}"` : (
+            `No Results Were Found for: "${search}"`
+          )}
+        </h1>
         {creatorCardList}
       </div>
     );

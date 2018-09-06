@@ -47,7 +47,7 @@ class CreatorCard extends Component {
         <img className="AuthorPhoto" src={photo} />
         <div className="Description">
           <span>
-            {`${born} - ${death || 'Present'}`}
+            {`${born} ${death ? `- ${death}` : ''}`}
           </span>
           <blockquote>
             <p>

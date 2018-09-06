@@ -1,9 +1,27 @@
 
+.App {
+  padding: 1em;
+}
+
+.App__info h1 {
+  margin-bottom: 0;
+}
+
+.App__info h4 {
+  margin-top: .5em;
+}
+
 .CreatorsList {
   display: flex;
   flex-wrap: wrap;
   margin: auto;
   width: 95%;
+}
+
+.CreatorsList h1 {
+  margin-top: 1em;
+  text-align: center;
+  width: 100%;
 }
 
 .CreatorCard {
@@ -61,8 +79,8 @@
 }
 
 .SearchWidget {
-  margin-bottom: 1em;
-  margin-top: 1em;
+  margin: 1em auto;
+  width: 95%;
 }
 
 .SearchWidget button {
@@ -71,9 +89,9 @@
   color: white;
   cursor: pointer;
   padding: 1em;
-  // Vertialcally offset buttons to align with input border bottom
   position: relative;
   top: 1px;
+  width: 16%;
 }
 
 .SearchWidget button:hover {
